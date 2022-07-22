@@ -1,7 +1,7 @@
 {
-  "name": "estudo-node",
+  "name": "servidor-memoria-utilizada",
   "version": "1.0.0",
-  "description": "repositorio para concentrar estudos de node.js",
+  "description": "Aplicação para mostrar a memoria utilizada",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
